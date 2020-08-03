@@ -26,6 +26,6 @@
     ```
     - Basic Error Handling is done
   - ## **Execute**
-    - run SQL-Engine from **python file** ``` python sql_engine.py <query> ```
-    - run SQL-Engine from **bash script** ``` bash run.sh ```
+    - run SQL-Engine from **python file** ``` python main.py <query> ```
+    
 
